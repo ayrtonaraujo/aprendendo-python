@@ -5,6 +5,8 @@
 
 a = input('A:')
 b = input('B:')
+print (a,'e', b)
+
 c = input('C:')
 
 a = c
